@@ -1,0 +1,359 @@
+
+
+*{
+   padding: 0%;
+   margin: 0%;
+   text-decoration: none;
+}
+.navbar{
+height: 50px;
+background-color: rgb(244, 114, 136);
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+color: wheat;
+}
+a{
+   color: white ;
+}
+#logo{
+   font-style: italic;
+   font-size: 25px;
+}
+.navbar  :hover{
+   font-size: large;
+   color: rgb(49, 47, 47);
+   
+}
+.content{
+   height: 100vh;
+   background-image: url("brightons-best-beauty-salon-fe934e8612.jpg");
+   background-size: cover;
+}
+#text1{
+   width: 450px;
+   margin-left: 80px;
+}
+#h1{
+   color: rgb(244, 114, 136);
+   font-size: 30px;
+}
+h4{
+   color: rgb(244, 114, 136);
+   font-size: 20px;
+} 
+h5{
+   font-weight: bolder;
+}
+p{
+   font-style: oblique;
+}
+button{
+   background-color: rgb(244, 114, 136);
+   color: white;
+   border: 2px solid rgb(244, 114, 136);
+}
+.about{
+   height: 100vh;
+   
+}
+.heading{
+   text-align: center;
+   font-size: 2rem;
+   color: #fcf9f9;
+   padding: 1rem;
+   margin: 1rem 0;
+   background-color: rgb(244, 114, 136);
+   font-style: italic;
+}
+.about .row{
+   display: flex;
+   align-items: center;
+   gap: 2rem;
+   flex-wrap: wrap;
+   padding: 2rem;
+   padding-bottom: 3rem;
+}
+
+.contant{
+   
+   height: 500px;
+   margin: 60px;
+ }
+#photo{
+   width: 500px;
+   height: 485px;
+   border:  2px solid crimson;
+   margin: 5px;
+   display: inline-block;
+   margin-left: 100px;
+   background-image: url("images (7).jpeg");
+   background-size: cover;
+   
+ }
+ h2{
+   color: rgb(3, 1, 1);
+ }
+#search{
+   height: 20px;
+   width: 60px;
+   font-style: italic;
+   font-size: normal;
+   border: 2px solid crimson;
+   background-color: crimson;
+ }
+h1{
+   
+   color:  rgb(244, 114, 136);
+   text-decoration: solid;
+   font-size: 50px;
+   
+}
+#heading{
+   text-align: center;
+   color:  rgba(20, 18, 18, 0.769);
+   text-decoration: solid;
+   font-size: 50px;
+   background-color: aliceblue;
+}
+.service{
+   height: 100vh;
+   background-color: rgb(138, 144, 144);
+}
+#container{
+height: 100vh;
+align-self: center;
+display: inline-block;
+margin-left: 100px;
+
+ }
+ 
+#photo1{
+   height: 350px;
+   width: 400px;
+   background-image: url("images (4).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+
+#photo2{
+   height: 350px;
+   width: 400px;
+   background-image: url("images (6).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#photo3{
+   height: 350px;
+   width: 400px;
+   background-image: url("images (7).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#photo4{
+   height: 280px;
+   width: 400px;
+   background-image: url("images (8).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#photo5{
+   height: 280px;
+   width: 400px;
+   background-image: url("download (5).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#photo6{
+   height: 280px;
+   width: 400px;
+   background-image: url("images (10).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+  
+}
+
+.hair_style{
+   height: 50vh;
+   background-color: rgb(125, 148, 96);
+}
+#box1{
+   height: 280px;
+   width: 300px;
+   background-image: url("download (1).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#box2{
+   height: 280px;
+   width: 300px;
+   background-image: url("download (2).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#box3{
+   height: 280px;
+   width: 300px;
+   background-image: url("download.jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}#box4{
+   height: 280px;
+   width: 300px;
+   background-image: url("images.jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#hair{
+   margin-left: 70px;
+}
+p1{
+   background-color: aliceblue ;
+   margin-left: 150px;
+}
+.RECOMMENDED{
+   height: 55vh;
+   background-color: rgb(125, 148, 96);
+}
+#Beauty1{
+   height: 280px;
+   width: 300px;
+   background-image: url("download (3).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#Beauty2{
+   height: 280px;
+   width: 300px;
+   background-image: url("images (1).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#Beauty3{
+   height: 280px;
+   width: 300px;
+   background-image: url("images (2).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#Beauty4{
+   height: 280px;
+   width: 300px;
+   background-image: url("download (7).jpeg");
+   background-size: cover;
+   display: inline-block;
+   margin: 10px;
+}
+#parlour{
+   margin-left: 70px;
+} 
+form{
+   border: 2px solid crimson;
+   border-radius: 25px;
+   width: 300px;
+   height: 350px;
+   padding: 40px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   opacity: 1.2;
+   margin-left: 270px;
+   margin-top: 110px;
+   background-color: rgb(244, 114, 136);
+}
+form input{
+   padding: 6px;
+   width: 230px;
+   height: 20px;
+   outline: none;
+}
+input[type="submit"]{
+   width: 230px;
+   background-color: rgb(245, 239, 239);
+   border: none;
+   cursor: pointer;
+}
+.already{
+   margin-top: 20px;
+}
+form p{
+   font-family: sans-serif;
+   font-size: 14px;
+   color: #fff;
+}
+.input-container p.msg{
+   visibility: hidden;
+   margin-bottom: 10px;
+   margin-top: 5px;
+}
+.input-container .error p.msg{
+   visibility: visible;
+}
+.input-container .error input{
+   border-color: red;
+}
+.input-container .succes input{
+   border-color: green;
+}
+
+img{
+   width: 31%;
+   height: 70%;
+   position: absolute;
+   top: 210px;
+   right: 220px;
+   border: 2px solid rgb(245, 239, 239);
+   border-radius: 25%;
+}
+.img2{
+   width: 520px;
+   height: 600px;
+   position: absolute;
+   top: 160px;
+   right: 800px;
+   border: 2px solid rgb(25, 24, 24);
+   border-radius: 17%;
+}
+#feature-text h1{
+   margin-left: 1000px;
+   margin-top: 100px;
+}
+#feature-text p{
+   margin-left: 750px;
+}
+.about-img #img01{
+   width: 520px;
+   height: 600px;
+   position: absolute;
+   top: 160px;
+   right: 800px;
+   border: 2px solid rgb(25, 24, 24);
+   border-radius: 17%;
+
+}
+.about-text h1{
+   margin-left: 1000px;
+   margin-top: 100px;
+   position: absolute;
+   top: 160px;
+}
+.about-text p{
+   margin-left: 750px;
+   position: absolute;
+   top: 350px;
+
+}
